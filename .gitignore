@@ -1,0 +1,34 @@
+# Ignorar variáveis de ambiente
+.env
+
+# Ignorar logs
+logs/
+*.log
+
+# Ignorar diretório node_modules
+node_modules/
+
+# Ignorar cache e builds
+*.cache
+
+# Ignorar arquivos de dependências gerados automaticamente
+package-lock.json
+
+# Ignorar arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignorar configurações do editor/IDE
+.vscode/
+.idea/
+
+# Ignorar arquivos temporários e de backup
+*.tmp
+*.swp
+*.bak
+*.old
+*.orig
+
+# Ignorar coverage de testes
+coverage/
+.nyc_output/
