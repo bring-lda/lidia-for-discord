@@ -129,8 +129,5 @@ LidIA é de uso exclusivo e não deve ser redistribuído sem autorização.
 
 ## **Licença**
 Projeto privado. Todos os direitos reservados.
-```
-
----
 
 Se precisar ajustar ou incluir mais funcionalidades específicas, me avise! 😊
