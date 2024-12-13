@@ -5,8 +5,22 @@
   "scripts": {
     "start": "node bot.js"
   },
-  "author": "@echo_off",
+  "author": "bring-lda",
   "license": "ISC",
+    "keywords": [
+    "discord",
+    "bot",
+    "assistant",
+    "LidIA",
+    "automation",
+    "discord.js",
+    "chatbot",
+    "nodejs",
+    "winston",
+    "moment",
+    "dotenv",
+    "discord-api"
+  ],
   "description": "Assistant LidIA for Discord",
   "dependencies": {
     "@discordjs/rest": "^2.4.0",
