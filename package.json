@@ -7,20 +7,7 @@
   },
   "author": "bring-lda",
   "license": "ISC",
-    "keywords": [
-    "discord",
-    "bot",
-    "assistant",
-    "LidIA",
-    "automation",
-    "discord.js",
-    "chatbot",
-    "nodejs",
-    "winston",
-    "moment",
-    "dotenv",
-    "discord-api"
-  ],
+    "keywords": [],
   "description": "Assistant LidIA for Discord",
   "dependencies": {
     "@discordjs/rest": "^2.4.0",
